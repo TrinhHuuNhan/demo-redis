@@ -4,4 +4,6 @@ public class Constants {
 
     public final static String GET_ALL_USER = "all_users";
 
+    public final static String USERS = "all_users";
+
 }
